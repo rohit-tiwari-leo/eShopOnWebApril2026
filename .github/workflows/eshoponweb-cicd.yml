@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb
   LOCATION: westus2
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 62894f51-3ca0-4507-a6d1-8b1b558a8bf9
+  SUBSCRIPTION-ID: 20d12d83-267a-4879-842e-117791537e50
   WEBAPP-NAME: eshoponweb-webapp-ghactions2026april
 
 jobs:
